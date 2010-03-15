@@ -1,0 +1,7 @@
+[Gedit Plugin]
+Loader=python
+Module=nota
+IAge=2
+Name=Nota
+Description=Compiles notes on save
+Authors=Rob Golding

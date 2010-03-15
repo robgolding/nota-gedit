@@ -1,0 +1,7 @@
+To install the nota Gedit plugin, place the nota.py and nota.gedit-plugin
+files into the following directory:
+
+    ~/.gnome2/gedit/plugins/
+
+Note that this application requires nota. You can obtain nota from
+http://bitbucket.org/robgolding63/nota/.
